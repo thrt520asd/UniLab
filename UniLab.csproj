@@ -271,6 +271,7 @@
     <Compile Include="Assets\Tools\GizmoTools.cs" />
     <Compile Include="Assets\Tools\MathTools.cs" />
     <Compile Include="Assets\Tools\ReflectTool.cs" />
+    <Compile Include="Assets\Tools\SerializeTools.cs" />
     <Compile Include="Assets\UGUIOverDraw\ClickLog.cs" />
     <Compile Include="Assets\UGUIOverDraw\EmptyRaycast.cs" />
     <Compile Include="Assets\UGUIOverDraw\PolygonImage.cs" />
